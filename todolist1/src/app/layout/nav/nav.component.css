@@ -1,0 +1,15 @@
+ul{
+    width:100%;
+    background:rgb(127,111,221,.3);
+    display: flex;
+}
+
+li{
+    padding:10px 2em;
+    cursor: pointer;
+    color: grey;
+}
+
+.active{
+    color:red;
+}
